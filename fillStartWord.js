@@ -8,6 +8,7 @@ function fillStartWord(startWord, word) {
   } else {
     return startWord + word
   }
+  
 }
 
 module.exports = fillStartWord;
